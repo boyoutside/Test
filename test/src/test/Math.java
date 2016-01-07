@@ -5,5 +5,6 @@ public class Math {
 		int x = 0;
 		x = i / j;
 		return x;
+		
 	}
 }
